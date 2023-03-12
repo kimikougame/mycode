@@ -1,0 +1,2 @@
+mycode/server/base
+技術書のコードを保管するフォルダ
