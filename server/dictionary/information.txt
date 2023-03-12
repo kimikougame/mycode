@@ -1,0 +1,2 @@
+mycode/server/dictionary
+逆引き辞典的なコードを保管するフォルダ
