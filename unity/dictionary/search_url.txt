@@ -1,0 +1,5 @@
+Listについて
+https://www.sejuku.net/blog/100462
+
+JsonUtilityクラスでJSONを扱う方法
+https://tech.pjin.jp/blog/2022/10/28/unity-jsonutility
