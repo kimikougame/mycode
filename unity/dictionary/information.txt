@@ -1,2 +1,4 @@
 mycode/unity/dictionary
 逆引き辞典的なコードを保管する
+
+サーバーとGetでhttp通信、jsonを扱う(シリアライズ、デシリアライズ)　→　test.cs
