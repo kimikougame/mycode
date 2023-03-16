@@ -24,3 +24,7 @@
   
   <エラー対応>
     データベースのマイグレーションを行わないとエラーになった。
+
+(参考文献)
+   <url>
+    https://channels.readthedocs.io/en/stable/tutorial/part_1.html
