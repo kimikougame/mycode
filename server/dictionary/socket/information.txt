@@ -1,0 +1,26 @@
+[Djangoでソケット通信を行う。]
+
+(編集するファイル)
+//Django側
+・asgi.py
+・settings.py
+・routing.py
+・consumers.py
+・routing.py
+(Django内で、htmlを書き込む場合に必要ファイル)
+//Django側
+・urls.py
+・views.py
+//templates
+・index.html
+・room.html
+
+(前提事項)
+　<インストールするパッケージ>
+    ・channels
+    ・daphene
+  <Dockerを用意>
+    Redisサーバーを用意する(ポート番号は6379)
+  
+  <エラー対応>
+    データベースのマイグレーションを行わないとエラーになった。
